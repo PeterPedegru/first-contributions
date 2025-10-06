@@ -182,7 +182,7 @@ replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
-Push your changes using the command `git push`:
+Push your changes using the command `git push` :
 
 ```bash
 git push -u origin your-branch-name
